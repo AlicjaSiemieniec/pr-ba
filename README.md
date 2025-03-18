@@ -1,3 +1,4 @@
 # próba
 
-zobaczymy co z tego wyjdzie
+hej
+ćwicze zobaczymy co z tego wyjdzie
