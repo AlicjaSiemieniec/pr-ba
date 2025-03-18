@@ -1,3 +1,3 @@
 # próba
 
-ćwicze zobaczymy co z tego wyjdzie
+zobaczymy co z tego wyjdzie
